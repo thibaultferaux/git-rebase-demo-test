@@ -6,6 +6,7 @@ def main():
 
 def feature_1():
     print("This is feature 1 in main")
+    print("This is feature 1 in rebase branch")
 
 def feature_2():
     print("This is feature 2 in main")
