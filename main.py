@@ -9,6 +9,7 @@ def feature_1():
 
 def feature_2():
     print("This is feature 2 in main")
+    print("This is feature 2 in rebase branch")
 
 
 if __name__ == "__main__":
