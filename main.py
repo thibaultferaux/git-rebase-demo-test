@@ -2,9 +2,13 @@ def main():
     print("Hello from git-rebase-demo-test!")
     print("Welcome to my main branch")
     feature_1()
+    feature_2()
 
 def feature_1():
     print("This is feature 1 in main")
+
+def feature_2():
+    print("This is feature 2 in main")
 
 
 if __name__ == "__main__":
